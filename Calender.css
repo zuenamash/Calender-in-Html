@@ -1,0 +1,21 @@
+style{
+    color: orange;
+    border: solid 90px;
+}
+h2{
+    align-items: center;
+}
+table{
+    background-color: lightgray;
+    align-items: center;
+    
+}
+th{
+    color: white;
+
+    background-color: aqua;
+}
+thead{
+    border-spacing: 5%;
+
+}
